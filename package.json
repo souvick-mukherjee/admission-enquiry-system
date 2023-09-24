@@ -1,0 +1,16 @@
+{
+  "name": "enquiry-system",
+  "version": "1.0.0",
+  "description": "This is an enquiry system for students willing to take admission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Souvick Mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.2"
+  }
+}
